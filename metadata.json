@@ -1,0 +1,6 @@
+{
+  "name": "Iqtidor Biologiya",
+  "description": "Sherbek Xolbo'tayev va Muqaddas Xolbo'tayevaning premium biologiya fanining o'quv qo'llanmalari va onlayn kursi landing sahifasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
